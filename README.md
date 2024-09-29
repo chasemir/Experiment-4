@@ -12,7 +12,7 @@ I used Anaconda to launch Jupyter Notebook and GitHub to store and share our wor
 ### III. Problem 1: Working with the Data
 Guidelines: 
 
-1. Upload the CSV file containing students' scores across several subjects and filter the data to look at specific aspects.
+1. Upload the CSV file containing students' scores across several subjects and filter the data to look at specific aspects.   
 2. Created visualizations that showed:
 	- How do average scores compare across different tracks?
 	- Whether there is a difference in scores based on Gender.
@@ -38,9 +38,8 @@ Guidelines:
      
 ### IV. Problem 2: Digging Deeper into the Data
   Guidelines
-  	1. I created filters to find very specific student groups. For example, we looked for:
-  	2. Students in the Instrumentation track from Luzon with Electronics scores over 70.
-  	3. Female Mindanao students with an overall average score above 55.
+  	1. Find students in the Instrumentation track from Luzon with Electronics scores over 70.
+  	2. Find Female Mindanao students with an overall average score above 55.
    
    	I. Discussion
        	 Pandas made it easy to zoom in on specific groups in the dataset and answer detailed questions like which students excelled in 
