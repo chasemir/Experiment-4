@@ -21,7 +21,7 @@ Guidelines:
    I. Discussion
 
    		Uploading the CSV File:
-	  	- The CSV file was loaded into a DataFrame called board using Pandas. This allowed us to store all the data 
+	  	- The CSV file was loaded into a board data frame using Pandas. This allowed us to store all the data 
 	    	(like scores in Math, Electronics, and other subjects) in one structure.
 
      		Filtering the Data:
@@ -33,14 +33,14 @@ Guidelines:
 	      	Visualizing the Data:
 	      	- I used three key graphs to analyze our data:
 	      		- Violin Plot: Showed how the average scores were spread across different tracks.
-	      		- Bar Plot: Compared the average scores of male and female students.
-	      		- Line Plot: Tracked the average scores of students from different hometowns for both males and females.
+	      		- Bar Plot: Compare the average scores of male and female students.
+	      		- Line Plot: Tracked the average scores of male and female students from different hometowns.
      
 ### IV. Problem 2: Digging Deeper into the Data
-  Guidlines
-  	•	I created filters to find very specific student groups. For example, we looked for:
-  	•	Students in the Instrumentation track from Luzon with Electronics scores over 70.
-  	•	Female students from Mindanao who had an overall average score above 55.
+  Guidelines
+  	1. I created filters to find very specific student groups. For example, we looked for:
+  	2. Students in the Instrumentation track from Luzon with Electronics scores over 70.
+  	3. Female Mindanao students with an overall average score above 55.
    
    	I. Discussion
        	 Pandas made it easy to zoom in on specific groups in the dataset and answer detailed questions like which students excelled in 
@@ -49,16 +49,18 @@ Guidelines:
   ### V. Does Track, Gender, or Hometown Make a Difference in Average Scores?
  	
    	I. Discussion 
-  	•	Track:
-   		From the violin plot, the average scores across the three tracks (Instrumentation, Communication, and Microelectronics) 
-   		were pretty similar. This tells us that the chosen track in college doesn’t really impact the average score much.
-  	•	Gender:
-   		The bar plot showed that male and female students had nearly identical average scores, meaning gender doesn’t have 
+  		Track:
+   		- From the violin plot, the average scores across the three tracks (Instrumentation, Communication, and Microelectronics) 
+   		were pretty similar. This tells us that the chosen track in college doesn’t impact the average score much.
+     
+  		Gender:
+   		- The bar plot showed that male and female students had nearly identical average scores, meaning gender doesn’t have 
     		much effect on the average score.
-  	•	Hometown:
-   		The line plot revealed that students from Luzon had slightly higher average scores than those from Mindanao and Visayas, 
+      
+  		Hometown:
+   		- The line plot revealed that students from Luzon had slightly higher average scores than those from Mindanao and Visayas, 
     		but the difference wasn’t drastic. This suggests that hometown may have a small influence, but it’s not a major factor.
    
-      In Short:
-      	- Track and Gender don’t play a big role in determining average scores.
-      	- Hometown shows a slight difference, with Luzon students doing a little better on average, but it’s not a huge gap.
+	      I.I Summary:
+	      	- Track and Gender don’t play a big role in determining average scores.
+	      	- Hometown shows a slight difference, with Luzon students doing a little better on average, but it’s not a huge gap.
