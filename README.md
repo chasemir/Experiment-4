@@ -25,16 +25,14 @@ Guidelines:
 	    	(like scores in Math, Electronics, and other subjects) in one structure.
 
      		Filtering the Data:
-	      	- I filtered the data to answer questions like:
 	      	- Who are the students in the Instrumentation track from Luzon with high Electronics scores?
 	      	- Then, we calculated the average score for each student across several subjects, which gave us a clearer 
 	       	picture of their overall performance.
    
 	      	Visualizing the Data:
-	      	- I used three key graphs to analyze our data:
-	      		- Violin Plot: Showed how the average scores were spread across different tracks.
-	      		- Bar Plot: Compare the average scores of male and female students.
-	      		- Line Plot: Tracked the average scores of male and female students from different hometowns.
+	  	- Violin Plot: Showed how the average scores were spread across different tracks.
+	  	- Bar Plot: Compare the average scores of male and female students.
+	  	- Line Plot: Tracked the average scores of male and female students from different hometowns.
      
 ### IV. Problem 2: Digging Deeper into the Data
   Guidelines
