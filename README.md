@@ -38,8 +38,9 @@ Guidelines:
      
 ### IV. Problem 2: Digging Deeper into the Data
   Guidelines
-  	1. Find students in the Instrumentation track from Luzon with Electronics scores over 70.
-  	2. Find Female Mindanao students with an overall average score above 55.
+  1. Find students in the Instrumentation track from Luzon with Electronics scores over 70.
+  
+  2. Find Female Mindanao students with an overall average score above 55.
    
    	I. Discussion
        	 Pandas made it easy to zoom in on specific groups in the dataset and answer detailed questions like which students excelled in 
