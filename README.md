@@ -10,27 +10,31 @@ I used Anaconda to launch Jupyter Notebook and GitHub to store and share our wor
 2. Use Seaborn and Matplotlib to create visualizations that can reveal trends in the data.
  
 ### III. Problem 1: Working with the Data
-Guidlines: 
-	•	I uploaded a CSV file that contained scores of students across several subjects and filtered the data to look at specific aspects.
-	•	Created visualizations that showed:
-	•	How average scores compare across different Tracks.
-	•	Whether there is a difference in scores based on Gender.
-	•	How scores vary based on the students’ Hometowns.
- 
-    I. Discussion
-      Uploading the CSV File:
-      	- The CSV file was loaded into a DataFrame called board using Pandas. This allowed us to store all the data 
-       	(like scores in Math, Electronics, and other subjects) in one structure.
-      Filtering the Data:
-      	- I filtered the data to answer questions like:
-      	- Who are the students in the Instrumentation track from Luzon with high Electronics scores?
-      	- Then, we calculated the average score for each student across several subjects, which gave us a clearer 
-       	picture of their overall performance.
-      Visualizing the Data:
-      	- I used three key graphs to analyze our data:
-      	1.	Violin Plot: Showed how the average scores were spread across different tracks.
-      	2.	Bar Plot: Compared the average scores of male and female students.
-      	3.	Line Plot: Tracked the average scores of students from different hometowns for both males and females.
+Guidelines: 
+
+1. Upload the CSV file containing students' scores across several subjects and filter the data to look at specific aspects.
+2. Created visualizations that showed:
+	- How do average scores compare across different tracks?
+	- Whether there is a difference in scores based on Gender.
+	- How scores vary based on the students’ Hometowns.
+
+   I. Discussion
+
+   		Uploading the CSV File:
+	  	- The CSV file was loaded into a DataFrame called board using Pandas. This allowed us to store all the data 
+	    	(like scores in Math, Electronics, and other subjects) in one structure.
+
+     		Filtering the Data:
+	      	- I filtered the data to answer questions like:
+	      	- Who are the students in the Instrumentation track from Luzon with high Electronics scores?
+	      	- Then, we calculated the average score for each student across several subjects, which gave us a clearer 
+	       	picture of their overall performance.
+   
+	      	Visualizing the Data:
+	      	- I used three key graphs to analyze our data:
+	      		- Violin Plot: Showed how the average scores were spread across different tracks.
+	      		- Bar Plot: Compared the average scores of male and female students.
+	      		- Line Plot: Tracked the average scores of students from different hometowns for both males and females.
      
 ### IV. Problem 2: Digging Deeper into the Data
   Guidlines
@@ -38,11 +42,13 @@ Guidlines:
   	•	Students in the Instrumentation track from Luzon with Electronics scores over 70.
   	•	Female students from Mindanao who had an overall average score above 55.
    
-      I. Discussion
-        Using Pandas made it easy to zoom in on specific groups in the dataset and answer detailed questions like which students were excelling in certain subjects or how well specific groups were doing overall.
+   	I. Discussion
+       	 Pandas made it easy to zoom in on specific groups in the dataset and answer detailed questions like which students excelled in 
+	 certain subjects or how well specific groups were doing overall.
  
   ### V. Does Track, Gender, or Hometown Make a Difference in Average Scores?
-  Here’s what I found based on the visualizations:
+ 	
+   	I. Discussion 
   	•	Track:
    		From the violin plot, the average scores across the three tracks (Instrumentation, Communication, and Microelectronics) 
    		were pretty similar. This tells us that the chosen track in college doesn’t really impact the average score much.
