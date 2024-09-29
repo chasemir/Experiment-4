@@ -65,5 +65,7 @@ Guidelines:
 
 ### Update
 29-September-2024
-Added comments to the program 
-Edited read me file
+
+- Added comments to the program
+  
+- Edited read me file
