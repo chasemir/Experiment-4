@@ -62,3 +62,8 @@ Guidelines:
 	      I.I Summary:
 	      	- Track and Gender don’t play a big role in determining average scores.
 	      	- Hometown shows a slight difference, with Luzon students doing a little better on average, but it’s not a huge gap.
+
+### Update
+29-September-2024
+Added comments to the program 
+Edited read me file
