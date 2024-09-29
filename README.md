@@ -10,7 +10,7 @@ I used Anaconda to launch Jupyter Notebook and GitHub to store and share our wor
 2. Use Seaborn and Matplotlib to create visualizations that can reveal trends in the data.
  
 ### III. Problem 1: Working with the Data
-Guidlines
+Guidlines: 
 	•	I uploaded a CSV file that contained scores of students across several subjects and filtered the data to look at specific aspects.
 	•	Created visualizations that showed:
 	•	How average scores compare across different Tracks.
